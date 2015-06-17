@@ -1,0 +1,58 @@
+/* Selector{
+    Property: value:
+}*/
+
+p{
+    color: red;
+    Font-size: 12px;
+    Background-color: blue;
+}
+
+div p {
+    color:blue;
+    Background:red;
+    font-size: 70px;
+}
+
+* {
+    font-family: Arial;
+}
+
+.class_test {
+    font-size: 150px;
+    Color: white;
+}
+
+#id_test{
+    color:yellow;
+    font-size: 6px;
+}
+
+.hover_test:hover {
+    color: purple;
+    
+}
+a:visited { 
+    color: lime;
+    
+#popluar {
+    color: green;
+    color: #2FEBCB; #3f6 
+    color: rgb(47, 235,203);
+    color: rgba(47, 235,203, .5);
+    background-color: #ffffff;
+    background-image: url("example.com/example.jpg");
+    Background: url("example.jpg");
+    font-size: 12em;
+    font-family: Helvatica, Arial, sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+.button {
+    border:2px solid black;
+    bordder radius: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+}

@@ -1,0 +1,16 @@
+
+
+a{
+    text-decoration
+}
+
+.button {
+    text-align:center;
+    color:#2952a3;
+    font-size: 1em;
+}
+
+div:hover {
+    background: #FF3300;
+    text-decoration: none;
+}
